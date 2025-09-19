@@ -24,9 +24,9 @@ I mainly want to focus on learning React and CSS.
 ---
 
 ## 📊 Coding Stats
-[![Jirasrel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jirasrel&show_icons=true&theme=nord)](https://github.com/Jirasrel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirasrel&layout=compact&theme=nord)](https://github.com/Jirasrel/github-readme-stats)
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Jirasrel&theme=nord)](https://github.com/Jirasrel/github-readme-stats)
+[![Jirasrel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jirasrel&show_icons=true&theme=catppuccin_mocha&show=stars,commits,prs,issues,contribs)](https://github.com/Jirasrel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirasrel&layout=compact&theme=catppuccin_mocha&show_icons=true)](https://github.com/Jirasrel/github-readme-stats)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Jirasrel&theme=catppuccin_mocha&show_icons=true)](https://github.com/Jirasrel/github-readme-stats)
 
 ---
 
