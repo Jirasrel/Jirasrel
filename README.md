@@ -9,9 +9,7 @@ I mainly want to focus on learning React and CSS.
 ## 🚀 About Me
 - 🌍 Im based in **Germany**
 - Interested in **Web Dev**
-- I like **Gaming**: Minecraft, Wuthering Waves, Helldivers 2 are my fav games
-- Im a fairly new **Anime** fan: Demon Slayer, 86, Re:Zero, Horimiya, Solo Leveling, Rascal Series, Oregairu are my favs
-- I like **Biology**, **Psychology** & **Chemistry**
+- I like **Biology**, **Psychology** & **Chemistry** as well as **Gaming**, **Anime** & **Reading** sometimes
 
 ---
 
@@ -33,7 +31,3 @@ I mainly want to focus on learning React and CSS.
 ## 📫 Contact
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:little.fox.e1000@gmail.com)
 
----
-
-## 🐍 Fun
-![Snake animation](assets/snake.svg)
