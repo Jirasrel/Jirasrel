@@ -1,9 +1,6 @@
 Hello, my name is Jirasrel or Jira for short.
 I mainly want to focus on learning React and CSS. 
 
-
-*pfp is Texas from Arknights*
-
 ---
 
 ## 🚀 About Me
